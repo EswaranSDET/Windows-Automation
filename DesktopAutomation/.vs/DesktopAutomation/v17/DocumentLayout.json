@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Eswaran\\My Learning and earning Things\\Technical Stuffs\\Handson\\Automation\\Windows Automation\\DesktopAutomation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{130E29F9-C6E6-4250-997D-D6CE594D4B7E}|DesktopAutomation.csproj|e:\\eswaran\\my learning and earning things\\technical stuffs\\handson\\automation\\windows automation\\desktopautomation\\desktopautomationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{130E29F9-C6E6-4250-997D-D6CE594D4B7E}|DesktopAutomation.csproj|solutionrelative:desktopautomationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{130E29F9-C6E6-4250-997D-D6CE594D4B7E}|DesktopAutomation.csproj|e:\\eswaran\\my learning and earning things\\technical stuffs\\handson\\automation\\windows automation\\desktopautomation\\windowsbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{130E29F9-C6E6-4250-997D-D6CE594D4B7E}|DesktopAutomation.csproj|solutionrelative:windowsbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{130E29F9-C6E6-4250-997D-D6CE594D4B7E}|DesktopAutomation.csproj|e:\\eswaran\\my learning and earning things\\technical stuffs\\handson\\automation\\windows automation\\desktopautomation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{130E29F9-C6E6-4250-997D-D6CE594D4B7E}|DesktopAutomation.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Eswaran\\My Learning and earning Things\\Technical Stuffs\\Handson\\Automation\\Windows Automation\\DesktopAutomation\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "E:\\Eswaran\\My Learning and earning Things\\Technical Stuffs\\Handson\\Automation\\Windows Automation\\DesktopAutomation\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-09T14:37:38.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DesktopAutomationTests.cs",
+              "DocumentMoniker": "E:\\Eswaran\\My Learning and earning Things\\Technical Stuffs\\Handson\\Automation\\Windows Automation\\DesktopAutomation\\DesktopAutomationTests.cs",
+              "RelativeDocumentMoniker": "DesktopAutomationTests.cs",
+              "ToolTip": "E:\\Eswaran\\My Learning and earning Things\\Technical Stuffs\\Handson\\Automation\\Windows Automation\\DesktopAutomation\\DesktopAutomationTests.cs",
+              "RelativeToolTip": "DesktopAutomationTests.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCAAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T14:27:36.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WindowsBase.cs",
+              "DocumentMoniker": "E:\\Eswaran\\My Learning and earning Things\\Technical Stuffs\\Handson\\Automation\\Windows Automation\\DesktopAutomation\\WindowsBase.cs",
+              "RelativeDocumentMoniker": "WindowsBase.cs",
+              "ToolTip": "E:\\Eswaran\\My Learning and earning Things\\Technical Stuffs\\Handson\\Automation\\Windows Automation\\DesktopAutomation\\WindowsBase.cs",
+              "RelativeToolTip": "WindowsBase.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAMwCQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T14:27:27.55Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
